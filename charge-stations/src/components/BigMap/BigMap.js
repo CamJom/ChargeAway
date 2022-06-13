@@ -13,9 +13,9 @@ export default function BigMap() {
     <div>
       <ReactMap
       initialViewState={{
-        longitude: -122.4,
-        latitude: 37.8,
-        zoom: 14
+        longitude: -122.7643204,
+        latitude: 45.3024788,
+        zoom: 18
       }}
       style={{width: 600, height: 400}}
       mapStyle="mapbox://styles/mapbox/streets-v9"
